@@ -26,6 +26,14 @@ Bina sınıfı, binanın bilgilerini ve içindeki dairelerin listesini içerir. 
 
 Bu kira takip sistemi, emlak yönetimi süreçlerini düzenlemek ve bu varlıklar arasındaki ilişkileri anlamak için kullanılabilir.
 
+![image](https://github.com/5210505058/KiraTakip/assets/127990796/5c9a9633-bce0-4c3c-952b-43f62785580c)
+
+
+
+https://github.com/5210505058/KiraTakip/assets/127990796/03411435-54c9-4b3b-89c9-9e162769224e
+
+
+
 # YAPANLAR
 ARDA IŞIK
 5210505058
