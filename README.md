@@ -26,6 +26,12 @@ Bina sınıfı, binanın bilgilerini ve içindeki dairelerin listesini içerir. 
 
 Bu kira takip sistemi, emlak yönetimi süreçlerini düzenlemek ve bu varlıklar arasındaki ilişkileri anlamak için kullanılabilir.
 
+# YAPANLAR
+ARDA IŞIK
+5210505058
+
+KEREM YALIN TAŞKIN 
+5210505028
 
 
 
